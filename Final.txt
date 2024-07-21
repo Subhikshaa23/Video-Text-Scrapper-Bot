@@ -1,0 +1,95 @@
+﻿BLUETOOTH
+* Bluetooth is a wireless technology standard used for exchanging data
+between fixed and mobile devices over short distances using
+short-wavelength UHF radio waves in the ISM radio bands, from 2.400
+to 2.485 GHz, and building personal area networks (PANs).
+* It was originally conceived as a wireless alternative to RS-232 data
+cables.
+* Bluetooth is a wireless technology named after Harold Bluetooth,
+based on an analogy that Bluetooth technblogy would unite devices
+the way Harald Bluetooth united the tribes of Denmark into a single
+kingdom.
+
+BLUETOOTH
+Bluetooth is specified by an industry consortium called the Bluetooth
+Special Interest Group.
+It specifies an entire suite of protocols. going beyond the link layer to
+define application protocols, which iT calls profiles. for a range of
+applications
+o There is a profile for synchronizing a PDA with personal computer.
+o Another profile gives o mobile computer access toa wired LAN.
+The basic Bluetooth network configuration is called a piconet.
+o Consists of a master device and up to seven slave devices.
+o Any communication is between the master and a slave.
+o The slaves do not communicate directly with each other,
+o A slave con be parked: set to an inactive. low-power state
+
+PROS
+-k Low cost.
+Easy to use.
+It can also penetrate through walls.
+It creates an ad-hoc connection immediately without any
+wires.
+It is used for voice and data transfer.
+
+CONS
+* It can be hacked and hence, less secure.
+•k It has slow data transfer rate.
+* It has small range: IO meters
+
+BLUESNARFING
+* 81uesnarfing is the unauthorized access of information from a wireless
+device through a Bluetooth connection. often between phones.
+desktops. laptops. and PDAs.
+* This allows access to calendars, contact lists. emails and text
+messages, ond on some phones. users con copy pictures and private
+videos.
+* Bluesnarfing is the theft of information from the target device.
+
+BLUETOOTH
+* Bluetooth is a wireless technology standard used for exchanging data
+between fixed and mobile devices over short distances using
+short-wavelength UHF radio waves in the ISM radio bands, from 2.400
+to 2.485 GHz, and building personal area networks (PANs).
+* It was originally conceived as a wireless alternative to RS-232 data
+cables.
+* Bluetooth is a wireless technology named after Harold Bluetooth,
+based on an analogy that Bluetooth technblogy would unite devices
+the way Harald Bluetooth united the tribes of Denmark into a single
+kingdom.
+
+BLUETOOTH
+Bluetooth is specified by an industry consortium called the Bluetooth
+Special Interest Group.
+It specifies an entire suite of protocols. going beyond the link layer to
+define application protocols, which iT calls profiles. for a range of
+applications
+o There is a profile for synchronizing a PDA with personal computer.
+o Another profile gives o mobile computer access toa wired LAN.
+The basic Bluetooth network configuration is called a piconet.
+o Consists of a master device and up to seven slave devices.
+o Any communication is between the master and a slave.
+o The slaves do not communicate directly with each other,
+o A slave con be parked: set to an inactive. low-power state
+
+PROS
+•k Low cost.
+Easy to use.
+It can also penetrate through walls.
+It creates an ad-hoc connection immediately without any
+wires.
+It is used for voice and data transfer.
+
+CONS
+* It can be hacked and hence, less secure.
+•k It has slow data transfer rate.
+* It has small range: IO meters
+
+BLUESNARFING
+* Bluesnarfing is the unauthorized access of information from a wireless
+device through a Bluetooth connection. often between phones.
+desktops, laptops. and PDAs.
+* This allows access to calendars, contact lists. emails and text
+messages, ond on some phones. users con copy pictures ond private
+videos.
+* Bluesnarfing is the theft of information from the target device.
